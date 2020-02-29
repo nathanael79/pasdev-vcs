@@ -1,3 +1,4 @@
 Hai, ini hello world! dari branch develop
 ini adalah tambahan teks dari branch features
 ini adalah tambahan untuk ragu-ragu
+ini adalah tambahan dari remote branch master
